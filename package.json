@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "@aragon/os": "^4.4.0",
+    "@aragon/osx": "^1.2.0",
+    "@openzeppelin/contracts": "^4.8.3",
+    "@openzeppelin/contracts-upgradeable": "^4.8.3"
+  }
+}
